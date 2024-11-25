@@ -52,7 +52,7 @@
 
 ### Приклад виводу:
 
-![Alt text](Task_4/Screenshot 2024-11-25 133250.png)
+<img src='Screenshot 2024-11-25 133250.png'>
 
 ## Висновки
 
